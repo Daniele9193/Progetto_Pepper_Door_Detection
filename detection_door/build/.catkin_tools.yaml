@@ -1,0 +1,6 @@
+devel_space: /home/daniele/pepper_ws/development_ws/src/myworkcell_core/devel
+install: false
+install_space: /home/daniele/pepper_ws/development_ws/src/myworkcell_core/install
+profile: default
+source_space: /home/daniele/pepper_ws/development_ws/src/myworkcell_core/src
+workspace: /home/daniele/pepper_ws/development_ws/src/myworkcell_core
